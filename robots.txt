@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /tools/
 
 Sitemap: https://syifaalya157-ops.github.io/sitemap.xml
